@@ -1,6 +1,6 @@
-# Basic Project :+1:
+# Bug App :+1:
 
-*Structure for creating a basic project*
+*Application for registering bugs*
 
 **Java 8**
 
